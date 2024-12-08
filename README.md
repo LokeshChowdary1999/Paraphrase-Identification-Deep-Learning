@@ -63,7 +63,11 @@ Develop ensemble models combining different architectures for robust predictions
 
 ## References
 1.Zhou, C., Qiu, C., & Acuna, D. E. (2024). Paraphrase Identification with Deep Learning: A Review of Datasets and Methods.
+
 2.Yin, W., & Schutze, H. (2015). Convolutional Neural Network for Paraphrase Identification. Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT).
+
 3.Lan, W., & Xu, W. (2018). Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering.
+
 4.Peinelt, N., Nguyen, D., & Liakata, M. (2020). Better Early than Late: Fusing Topics with Word Embeddings for Neural Question Paraphrase Identification.
+
 5.Vrbanec, T., & Mestrovic, A. (2021). Corpus-Based Paraphrase Detection Experiments and Review.
